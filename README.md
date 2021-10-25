@@ -1,4 +1,4 @@
-# Enerjisa Bootcamp Homework 1
+# Enerjisa Bootcamp Homework-1
 
 1-) Pandas kütüphanesiyle bir DataFrame oluşturup ve içine Levels of Measurements'ları nominal, ordinal, interval ve ratio olan kolonlar ekleyelim.
 
